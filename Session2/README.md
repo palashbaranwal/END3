@@ -218,10 +218,11 @@ a_o1 and a_02 respectively, which in turn affects updation of E_Total
 
 ---
 
-<!-- ### LOSS Value Line Chart
+### LOSS Value Line Chart
 
-![Loss Value](link)
- -->
+![Loss Value](https://github.com/palashbaranwal/END3/blob/main/Session2/Loss.png)
+---
+
 ### Excel Sheet Screenshots
 
 ![Excel Screesnhot](https://github.com/palashbaranwal/END3/blob/main/Session2/Excel_Screenshot.png)
