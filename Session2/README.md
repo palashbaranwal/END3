@@ -13,12 +13,12 @@
 
 ---
 
-<!-- ### NN Diagram Screenshot
+### NN Diagram Screenshot
 
-![END3-Session2](link)
+<!-- ![END3-Session2](link) -->
+![END3-Session2](https://github.com/palashbaranwal/END3/blob/main/Session2/Neural_Network.png)
 
 ---
- -->
 ## Major Steps Explanation
 
 ### Forward Propagation
